@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>GSC</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<false/>
+		<key>NSAllowsLocalNetworking</key>
+		<true/>
+	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>to your camera to share photos, images, videos and experiences within the app</string>
+	<key>NSContactsUsageDescription</key>
+	<string>help vouch for other members you may know looking to join the GSC community</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>App would like to use your location for the closest spots</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>to help show the closest spots, suggested trips and check-in with departures and locations for trips</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>to your photo gallery to share photos, images, videos and experiences within the app</string>
+	<key>RCTNewArchEnabled</key>
+	<true/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>AntDesign.ttf</string>
+		<string>Entypo.ttf</string>
+		<string>EvilIcons.ttf</string>
+		<string>Feather.ttf</string>
+		<string>FontAwesome.ttf</string>
+		<string>FontAwesome5_Brands.ttf</string>
+		<string>FontAwesome5_Regular.ttf</string>
+		<string>FontAwesome5_Solid.ttf</string>
+		<string>Fontisto.ttf</string>
+		<string>Foundation.ttf</string>
+		<string>Ionicons.ttf</string>
+		<string>MaterialCommunityIcons.ttf</string>
+		<string>MaterialIcons.ttf</string>
+		<string>Octicons.ttf</string>
+		<string>SimpleLineIcons.ttf</string>
+		<string>Zocial.ttf</string>
+		<string>BodoniModa_18pt-Black.ttf</string>
+		<string>BodoniModa_18pt-BlackItalic.ttf</string>
+		<string>BodoniModa_18pt-Bold.ttf</string>
+		<string>BodoniModa_18pt-BoldItalic.ttf</string>
+		<string>BodoniModa_18pt-ExtraBold.ttf</string>
+		<string>BodoniModa_18pt-ExtraBoldItalic.ttf</string>
+		<string>BodoniModa_18pt-Italic.ttf</string>
+		<string>BodoniModa_18pt-Medium.ttf</string>
+		<string>BodoniModa_18pt-MediumItalic.ttf</string>
+		<string>BodoniModa_18pt-Regular.ttf</string>
+		<string>BodoniModa_18pt-SemiBold.ttf</string>
+		<string>BodoniModa_18pt-SemiBoldItalic.ttf</string>
+		<string>Poppins-Medium.ttf</string>
+		<string>Poppins-Regular.ttf</string>
+		<string>Poppins-SemiBold.ttf</string>
+		<string>Proxima-Nova-Alt-Bold.ttf</string>
+		<string>Proxima-Nova-Alt-Light.ttf</string>
+		<string>Proxima-Nova-Alt-Thin.ttf</string>
+		<string>Proxima-Nova-Black.ttf</string>
+		<string>Proxima-Nova-Bold.ttf</string>
+		<string>Proxima-Nova-Extrabold.ttf</string>
+		<string>Proxima-Nova-Thin.ttf</string>
+		<string>ProximaNova-Regular.ttf</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>arm64</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>

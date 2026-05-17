@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "771646258936",
+    "project_id": "gsc-push-notification",
+    "storage_bucket": "gsc-push-notification.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771646258936:android:ceba1bb3bc05742805850d",
+        "android_client_info": {
+          "package_name": "com.gsc.global.surf.club"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771646258936-th6qm6lik7mnoks02iqqro87ucp72hdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-vdabVYrXbnH4174tKwUS9vR-B_rDT7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771646258936-th6qm6lik7mnoks02iqqro87ucp72hdc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "771646258936-cs8mdqjhrnfm6vpq61q27pp4vqbasnqu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.globalsurfclub.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
